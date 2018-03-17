@@ -1,0 +1,19 @@
+{
+  "author": "Adam Phillips",
+  "name": "boss-syntax",
+  "theme": "syntax",
+  "version": "0.3.3",
+  "description": "An customised version of boss-syntax",
+  "keywords": [
+    "syntax",
+    "theme",
+    "base16",
+    "ocean",
+    "spacegray"
+  ],
+  "repository": "https://github.com/adamphillips/boss-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
